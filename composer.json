@@ -1,0 +1,10 @@
+{
+  "name": "felipe/api-rest-usuarios",
+  "description": "API REST de usuários e autenticação com PHP e Slim Framework",
+  "require": {
+    "slim/slim": "^4.0",
+    "slim/psr7": "^1.6",
+    "php-di/php-di": "^7.0",
+    "guzzlehttp/psr7": "^2.0"
+  }
+}
